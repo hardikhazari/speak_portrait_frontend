@@ -364,34 +364,11 @@ npm run type-check   # TypeScript checking
 - **TypeScript**: Type safety
 - **Conventional Commits**: Git commit message format
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
-- **Yashar Yasaxena** - _Initial work_ - [@yasharyasaxena](https://github.com/yasharyasaxena)
-
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/) - React framework
-- [Firebase](https://firebase.google.com/) - Authentication and hosting
-- [Tailwind CSS](https://tailwindcss.com/) - Styling framework
-- [shadcn/ui](https://ui.shadcn.com/) - Component library
-- [WaveSurfer.js](https://wavesurfer-js.org/) - Audio visualization
-- [CarveKit](https://github.com/OPHoperHPO/image-background-remove-tool) - Background removal
-
-## 📞 Support
-
-For support, email support@speakportrait.com or create an issue on GitHub.
+- **Yash Arya Saxena**
+- **Hardik Hazari**
+- **Divyae Arya**
 
 ---
 
